@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://charo164.github.io/404-not-found/">
+    <a href="https://santaclaus112.github.io/.github-Portolio-devchallange5/">
       Demo
     </a>
     <span> | </span>
@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](./images/preview.png)
+![screenshot](preview.png)
 
 ### Built With
 
